@@ -1,0 +1,101 @@
+country_code,postal_code,place_name,admin_name1,admin_code1,admin_name2,admin_code2,admin_name3,admin_code3,latitude,longitude,accuracy,alternative_city_name
+BR,69945-000,Acrelândia,Acre,1,Acrelândia,1200013.0,,,-9.9805,-66.8439,2,
+BR,69935-000,Assis Brasil,Acre,1,Assis Brasil,1200054.0,,,-10.8833,-70.0131,2,Assis Brasil
+BR,69932-000,Brasiléia,Acre,1,Brasiléia,1200104.0,,,-10.7677,-69.0114,2,
+BR,69923-000,Bujari,Acre,1,Bujari,1200138.0,,,-9.5786,-68.172,2,Bujari Municipality
+BR,69922-000,Capixaba,Acre,1,Capixaba,1200179.0,,,-10.4878,-67.8483,2,Capixaba
+BR,69980-000,Cruzeiro do Sul,Acre,1,Cruzeiro do Sul,1200203.0,,,-8.0159,-72.9298,2,Cruzeiro do Sul
+BR,69934-000,Epitaciolândia,Acre,1,Epitaciolândia,1200252.0,,,-10.9354,-68.4441,2,
+BR,69960-000,Feijó,Acre,1,Feijó,1200302.0,,,-8.905,-70.9149,2,
+BR,69975-000,Jordão,Acre,1,Jordão,1200328.0,,,-9.0917,-71.8407,2,
+BR,69990-000,Mâncio Lima,Acre,1,Mâncio Lima,1200336.0,,,-7.5396,-73.4583,2,
+BR,69950-000,Manoel Urbano,Acre,1,Manoel Urbano,1200344.0,,,-9.4895,-70.0124,2,Manoel Urbano Municipality
+BR,69983-000,Marechal Thaumaturgo,Acre,1,Marechal Thaumaturgo,1200351.0,,,-9.1899,-72.5685,2,Marechal Thaumaturgo Municipality
+BR,69928-000,Plácido de Castro,Acre,1,Plácido de Castro,1200385.0,,,-10.2943,-67.2682,2,
+BR,69982-000,Porto Walter,Acre,1,Porto Walter,1200393.0,,,-8.5247,-72.8207,2,
+BR,69900-000,Rio Branco,Acre,1,Rio Branco,1200401.0,,,-10.0699,-68.1553,2,Rio Branco
+BR,69985-000,Rodrigues Alves,Acre,1,Rodrigues Alves,1200427.0,,,-7.8529,-73.2361,2,
+BR,69955-000,Santa Rosa do Purus,Acre,1,Santa Rosa do Purus,1200435.0,,,-9.4773,-70.3903,2,Santa Rosa
+BR,69925-000,Senador Guiomard,Acre,1,Senador Guiomard,1200450.0,,,-9.9408,-67.3931,2,
+BR,69940-000,Sena Madureira,Acre,1,Sena Madureira,1200500.0,,,-10.0357,-69.5497,2,Sena Madureira Municipality
+BR,69970-000,Tarauacá,Acre,1,Tarauacá,1200609.0,,,-8.6552,-71.4234,2,
+BR,69930-000,Xapuri,Acre,1,Xapuri,1200708.0,,,-10.5966,-68.6489,2,Xapuri
+BR,69921-000,Porto Acre,Acre,1,Porto Acre,1200807.0,,,-9.6504,-67.7773,2,
+BR,57490-000,Água Branca,Alagoas ,2,Água Branca,2700102.0,,,-9.2699,-37.9192,2,
+BR,57660-000,Anadia,Alagoas ,2,Anadia,2700201.0,,,-9.6749,-36.3379,2,
+BR,57300-000,Arapiraca,Alagoas ,2,Arapiraca,2700300.0,,,-9.7438,-36.5931,2,Arapiraca
+BR,57690-000,Atalaia,Alagoas ,2,Atalaia,2700409.0,,,-9.5298,-36.0746,2,Atalaia
+BR,57925-000,Barra de Santo Antônio,Alagoas ,2,Barra de Santo Antônio,2700508.0,,,-9.3975,-35.5654,2,
+BR,57180-000,Barra de São Miguel,Alagoas ,2,Barra de São Miguel,2700607.0,,,-9.8123,-35.9609,2,
+BR,57420-000,Batalha,Alagoas ,2,Batalha,2700706.0,,,-9.7326,-37.0888,2,Batalha
+BR,57630-000,Belém,Alagoas ,2,Belém,2700805.0,,,-9.5442,-36.502,2,
+BR,57435-000,Belo Monte,Alagoas ,2,Belo Monte,2700904.0,,,-9.8052,-37.1916,2,Belmonte
+BR,57680-000,Boca da Mata,Alagoas ,2,Boca da Mata,2701001.0,,,-9.6465,-36.1413,2,Boca da Mata
+BR,57830-000,Branquinha,Alagoas ,2,Branquinha,2701100.0,,,-9.2117,-36.0896,2,Branquinha
+BR,57570-000,Cacimbinhas,Alagoas ,2,Cacimbinhas,2701209.0,,,-9.449,-36.9047,2,Cacimbinhas
+BR,57770-000,Cajueiro,Alagoas ,2,Cajueiro,2701308.0,,,-9.3763,-36.1577,2,Cajueiro
+BR,57968-000,Campestre,Alagoas ,2,Campestre,2701357.0,,,-8.8939,-35.5324,2,Campestre
+BR,57250-000,Campo Alegre,Alagoas ,2,Campo Alegre,2701407.0,,,-9.7933,-36.2857,2,Campo Alegre
+BR,57350-000,Campo Grande,Alagoas ,2,Campo Grande,2701506.0,,,-9.95,-36.7559,2,Campo Grande
+BR,57530-000,Canapi,Alagoas ,2,Canapi,2701605.0,,,-9.1733,-37.5199,2,Canapi
+BR,57780-000,Capela,Alagoas ,2,Capela,2701704.0,,,-9.3934,-36.1239,2,Capela
+BR,57535-000,Carneiros,Alagoas ,2,Carneiros,2701803.0,,,-9.4647,-37.3556,2,Carneiros
+BR,57760-000,Chã Preta,Alagoas ,2,Chã Preta,2701902.0,,,-9.2292,-36.3305,2,
+BR,57325-000,Coité do Nóia,Alagoas ,2,Coité do Nóia,2702009.0,,,-9.6262,-36.6004,2,
+BR,57975-000,Colônia Leopoldina,Alagoas ,2,Colônia Leopoldina,2702108.0,,,-8.8921,-35.7423,2,
+BR,57140-000,Coqueiro Seco,Alagoas ,2,Coqueiro Seco,2702207.0,,,-9.6466,-35.8094,2,Coqueiro Seco
+BR,57230-000,Coruripe,Alagoas ,2,Coruripe,2702306.0,,,-10.0745,-36.1996,2,Coruripe
+BR,57320-000,Craíbas,Alagoas ,2,Craíbas,2702355.0,,,-9.6011,-36.8027,2,
+BR,57480-000,Delmiro Gouveia,Alagoas ,2,Delmiro Gouveia,2702405.0,,,-9.4445,-38.0248,2,Delmiro
+BR,57560-000,Dois Riachos,Alagoas ,2,Dois Riachos,2702504.0,,,-9.3582,-37.0657,2,Dois Riachos
+BR,57625-000,Estrela de Alagoas,Alagoas ,2,Estrela de Alagoas,2702553.0,,,-9.3986,-36.7622,2,Ehstrela-di-Alagoas
+BR,57340-000,Feira Grande,Alagoas ,2,Feira Grande,2702603.0,,,-9.9247,-36.6695,2,Mocambo
+BR,57220-000,Feliz Deserto,Alagoas ,2,Feliz Deserto,2702702.0,,,-10.2908,-36.3537,2,Felis Dezertu
+BR,57995-000,Flexeiras,Alagoas ,2,Flexeiras,2702801.0,,,-9.2006,-35.78,2,Flexeiras
+BR,57360-000,Girau do Ponciano,Alagoas ,2,Girau do Ponciano,2702900.0,,,-9.7838,-36.842,2,Girau do Ponciano
+BR,57890-000,Ibateguara,Alagoas ,2,Ibateguara,2703007.0,,,-8.8969,-35.9096,2,Ibateguara
+BR,57620-000,Igaci,Alagoas ,2,Igaci,2703106.0,,,-9.58,-36.6742,2,
+BR,57280-000,Igreja Nova,Alagoas ,2,Igreja Nova,2703205.0,,,-10.1666,-36.6172,2,Igreja Nova
+BR,57545-000,Inhapi,Alagoas ,2,Inhapi,2703304.0,,,-9.2773,-37.6362,2,In'japi
+BR,57430-000,Jacaré dos Homens,Alagoas ,2,Jacaré dos Homens,2703403.0,,,-9.6728,-37.2228,2,
+BR,57960-000,Jacuípe,Alagoas ,2,Jacuípe,2703502.0,,,-8.8772,-35.4588,2,
+BR,57950-000,Japaratinga,Alagoas ,2,Japaratinga,2703601.0,,,-9.099,-35.2963,2,Japaratinga Municipality
+BR,57425-000,Jaramataia,Alagoas ,2,Jaramataia,2703700.0,,,-9.6505,-36.9604,2,Jaramataia
+BR,57980-000,Joaquim Gomes,Alagoas ,2,Joaquim Gomes,2703809.0,,,-9.1035,-35.7374,2,Joaquim Gomes Municipality
+BR,57965-000,Jundiá,Alagoas ,2,Jundiá,2703908.0,,,-8.9406,-35.4996,2,
+BR,57270-000,Junqueiro,Alagoas ,2,Junqueiro,2704005.0,,,-9.8852,-36.4564,2,
+BR,57330-000,Lagoa da Canoa,Alagoas ,2,Lagoa da Canoa,2704104.0,,,-9.8072,-36.7481,2,Lagoa da Canoa
+BR,57260-000,Limoeiro de Anadia,Alagoas ,2,Limoeiro de Anadia,2704203.0,,,-9.7268,-36.4541,2,Limoeira
+BR,57000-000,Maceió,Alagoas ,2,Maceió,2704302.0,,,-9.5713,-35.6899,2,
+BR,57580-000,Major Isidoro,Alagoas ,2,Major Isidoro,2704401.0,,,-9.5168,-36.9649,2,Major Izidoro
+BR,57955-000,Maragogi,Alagoas ,2,Maragogi,2704500.0,,,-8.9586,-35.276,2,Maragogi Municipality
+BR,57520-000,Maravilha,Alagoas ,2,Maravilha,2704609.0,,,-9.2231,-37.3794,2,Maravilha
+BR,57160-000,Marechal Deodoro,Alagoas ,2,Marechal Deodoro,2704708.0,,,-9.709,-35.9031,2,Deodoro Municipality
+BR,57670-000,Maribondo,Alagoas ,2,Maribondo,2704807.0,,,-9.5509,-36.3403,2,Maribondo
+BR,57730-000,Mar Vermelho,Alagoas ,2,Mar Vermelho,2704906.0,,,-9.4925,-36.3504,2,Mar Vermelho Municipality
+BR,57540-000,Mata Grande,Alagoas ,2,Mata Grande,2705002.0,,,-8.9854,-37.7615,2,Mata Grande
+BR,57910-000,Matriz de Camaragibe,Alagoas ,2,Matriz de Camaragibe,2705101.0,,,-9.1383,-35.5761,2,Matris di Kamarazibi
+BR,57990-000,Messias,Alagoas ,2,Messias,2705200.0,,,-9.3211,-35.8222,2,Mesias
+BR,57615-000,Minador do Negrão,Alagoas ,2,Minador do Negrão,2705309.0,,,-9.3186,-36.8863,2,
+BR,57440-000,Monteirópolis,Alagoas ,2,Monteirópolis,2705408.0,,,-9.6202,-37.2935,2,
+BR,57820-000,Murici,Alagoas ,2,Murici,2705507.0,,,-9.2983,-35.9,2,Murici
+BR,57970-000,Novo Lino,Alagoas ,2,Novo Lino,2705606.0,,,-8.8809,-35.6195,2,Lovo Lino
+BR,57442-000,Olho d Água das Flores,Alagoas ,2,Olho d Água das Flores,2705705.0,,,-9.5403,-37.2521,2,
+BR,57470-000,Olho d Água do Casado,Alagoas ,2,Olho d Água do Casado,2705804.0,,,-9.4565,-37.835,2,
+BR,57390-000,Olho d Água Grande,Alagoas ,2,Olho d Água Grande,2705903.0,,,-10.0562,-36.7952,2,
+BR,57550-000,Olivença,Alagoas ,2,Olivença,2706000.0,,,-9.4695,-37.1668,2,
+BR,57525-000,Ouro Branco,Alagoas ,2,Ouro Branco,2706109.0,,,-9.129,-37.3737,2,Ouro Branco
+BR,57410-000,Palestina,Alagoas ,2,Palestina,2706208.0,,,-9.675,-37.331,2,Palestina
+BR,57600-000,Palmeira dos Índios,Alagoas ,2,Palmeira dos Índios,2706307.0,,,-9.409,-36.6065,2,
+BR,57400-000,Pão de Açúcar,Alagoas ,2,Pão de Açúcar,2706406.0,,,-9.6835,-37.4543,2,
+BR,57475-000,Pariconha,Alagoas ,2,Pariconha,2706422.0,,,-9.2204,-38.0167,2,Pariconha
+BR,57935-000,Paripueira,Alagoas ,2,Paripueira,2706448.0,,,-9.4294,-35.5898,2,Paripuehjra
+BR,57930-000,Passo de Camaragibe,Alagoas ,2,Passo de Camaragibe,2706505.0,,,-9.2987,-35.4279,2,Passo de Camaragibe
+BR,57740-000,Paulo Jacinto,Alagoas ,2,Paulo Jacinto,2706604.0,,,-9.3684,-36.3929,2,Paulo Jacinto
+BR,57200-000,Penedo,Alagoas ,2,Penedo,2706703.0,,,-10.2445,-36.4699,2,Penedo
+BR,57210-000,Piaçabuçu,Alagoas ,2,Piaçabuçu,2706802.0,,,-10.3739,-36.419,2,
+BR,57150-000,Pilar,Alagoas ,2,Pilar,2706901.0,,,-9.6175,-36.0632,2,Pilar
+BR,57720-000,Pindoba,Alagoas ,2,Pindoba,2707008.0,,,-9.4749,-36.3034,2,Pindoba
+BR,57460-000,Piranhas,Alagoas ,2,Piranhas,2707107.0,,,-9.5481,-37.7453,2,Piranhas
+BR,57510-000,Poço das Trincheiras,Alagoas ,2,Poço das Trincheiras,2707206.0,,,-9.2926,-37.3199,2,
+BR,57900-000,Porto Calvo,Alagoas ,2,Porto Calvo,2707305.0,,,-9.0706,-35.3734,2,Porto Calvo
